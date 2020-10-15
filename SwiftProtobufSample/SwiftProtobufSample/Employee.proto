@@ -1,0 +1,6 @@
+syntax = "proto3";
+message Employee {
+  string name = 1;
+  int32 age = 2;
+  int32 salary = 3;
+}
